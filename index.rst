@@ -11,9 +11,9 @@ Welcome to oa-rapid資源系統's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   用戶端環境
-   環境介紹
-   用戶登入
+   oaclient
+   intro
+   loggin
 
 Indices and tables
 ==================
