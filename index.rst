@@ -7,12 +7,13 @@ Welcome to oa-rapid資源系統's documentation!
 ============================================
 
 .. toctree::
+   :numbered:
    :maxdepth: 2
    :caption: Contents:
 
    用戶端環境
    環境介紹
-   chapter/用戶登入
+   用戶登入
 
 Indices and tables
 ==================
